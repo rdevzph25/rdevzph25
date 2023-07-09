@@ -150,6 +150,6 @@
 
 <br>
 
-Credit for Template: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Template by: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 07/09/2023
+Last Edited on: 07/10/2023
