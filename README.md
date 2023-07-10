@@ -81,6 +81,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rdevzph25&theme=github-dark-blue)](https://git.io/streak-stats)
+
 <div align="center">
 
 <a href="https://github.com/rdevzph25/">
