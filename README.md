@@ -19,7 +19,7 @@
 - A passionate self-taught programmer
 - Currently learning web and app development by myself
 - Personal website [Coming soon](https://)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://lime-corie-67.tiiny.site/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://resume.io/r/f51rFc32k)
 - Check my latest developed VPN Android App [RPB Tunnel VPN](https://play.google.com/store/apps/details?id=rpb.tunnel.vpn)
 
 <br><br>
