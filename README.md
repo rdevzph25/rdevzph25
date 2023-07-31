@@ -140,18 +140,10 @@
 
 <div align='center'>
 
-## <b>Thank you and God Bless...✨</b>
+## <b>Have a nice day and God Bless...✨</b>
 
 </div>
 <br>
 <br>
 <br>
 <br>
-
----
-
-<br>
-
-Template by: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 07/10/2023
