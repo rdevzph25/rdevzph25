@@ -107,6 +107,15 @@
 
 <ul>
 
+
+<li>
+<a href="https://www.linkedin.com/in/romel-brosas-98a303286/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn: Romel BROSAS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
 <li>
 <a href="https://facebook.com/romel.brosas0125" target="_blank">
 <img src="https://img.shields.io/badge/Facebook: ROMEL BROSAS-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
