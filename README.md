@@ -26,8 +26,6 @@
 - Currently learning web and app development by myself
 - Personal website [Coming soon](https://)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://resume.io/r/f51rFc32k)
-- Check my latest developed VPN Android App [RPB Tunnel VPN](https://play.google.com/store/apps/details?id=rpb.tunnel.vpn)
-
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -38,7 +36,7 @@
 ![Screenshot 1](https://example.com/screenshot1.png)
 ![Screenshot 2](https://example.com/screenshot2.png)
 
-[Download on Google Play](https://play.google.com/store/apps/details?id=rdevzph.ezconnect.vpn)
+[Download on Google Play](https://play.google.com/store/apps/details?id=rdevz.ezconnect.vpn)
 
 ## Description
 
