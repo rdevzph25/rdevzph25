@@ -32,12 +32,17 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Projects</b>
 <br>
 # EZConnect VPN
-
-![Screenshot 1](docs-1/Screenshot-1.jpg)
-![Screenshot 2](docs-1/Screenshot-2.jpg)
-![Screenshot 3](docs-1/Screenshot-3.jpg)
-![Screenshot 4](docs-1/Screenshot-4.jpg)
-![Screenshot 5](docs-1/Screenshot-5.jpg)
+<p align="center">
+  <img src="docs-1/Screenshot-1.jpg" width="250" alt="Screenshot 1"style="width: 100px; display: inline-block;">
+  <img src="docs-1/Screenshot-2.jpg" width="250" alt="Screenshot 2" style="width: 100px; display: inline-block;">
+  <img src="docs-1/Screenshot-3.jpg" width="250" alt="Screenshot 3" style="width: 100px; display: inline-block;">
+<img src="docs-1/Screenshot-4.jpg" width="250" alt="Screenshot 4"
+style="width: 100px; display: inline-block;">
+<img src="docs-1/Screenshot-5.jpg" width="250" alt="Screenshot 5"
+style="width: 100px; display: inline-block;">
+<img src="docs-1/Screenshot-6.jpg" width="250" alt="Screenshot 6"
+style="width: 100px; display: inline-block;">
+</p>
 
 [Download on Google Play](https://play.google.com/store/apps/details?id=rdevz.ezconnect.vpn)
 
