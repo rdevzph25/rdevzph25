@@ -33,8 +33,11 @@
 <br>
 # EZConnect VPN
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](docs-1/Screenshot-1.jpg)
+![Screenshot 2](docs-1/Screenshot-2.jpg)
+![Screenshot 3](docs-1/Screenshot-3.jpg)
+![Screenshot 4](docs-1/Screenshot-4.jpg)
+![Screenshot 5](docs-1/Screenshot-5.jpg)
 
 [Download on Google Play](https://play.google.com/store/apps/details?id=rdevz.ezconnect.vpn)
 
