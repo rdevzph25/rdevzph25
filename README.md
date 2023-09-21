@@ -31,7 +31,34 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Projects</b>
+<br>
+# EZConnect VPN
 
+![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 2](https://example.com/screenshot2.png)
+
+[Download on Google Play](https://play.google.com/store/apps/details?id=rdevzph.ezconnect.vpn)
+
+## Description
+
+EZConnect VPN is a simple, fast, and reliable VPN application.
+
+## Installation
+
+To install EZConnect VPN, simply download it from the Google Play Store using the link above.
+
+## Usage
+1. Update Resources
+2. Select Server
+3. Select Tweak
+4. Start VPN
+
+
+<br><br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
